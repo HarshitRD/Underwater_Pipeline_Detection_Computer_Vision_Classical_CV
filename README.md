@@ -12,7 +12,7 @@ a)New Pipeline Folder -> Have the Newly Developed Pipeline. Code is in "FINAL_PI
 
 b)Research -> Have the Implementation of the Research Paper Pipeline. Code is in "Research_paper_implementation.ipynb" python Notebook file.
 
-c)Images_set -> Have all the images we have tested or tried during the execution or can use the drive link to access-> https://drive.google.com/drive/folders/1CTg7ASCnYoXeYgc1za3m85NTS54et_Yv?usp=drive_link
+c)Images_set -> Have all the images we have tested or tried during the execution or can use the drive link to access-> https://drive.google.com/drive/folders/1gmigFfmaADStGr3p7XwbogWIdOxGfQRe?usp=drive_link
 
 ->We have used the Google colab to run the notebook files. Download the notebook file and run directly on the google colab. 
 Or 
